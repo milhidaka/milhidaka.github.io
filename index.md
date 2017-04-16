@@ -19,7 +19,7 @@ title: Masatoshi Hidaka
 
 ## 2017
 
-Masatoshi Hidaka, Ken Miura, Tatsuya Harada. Development of JavaScript-based deep learning platform and application to distributed training. 5th International Conference on Learning Representations (ICLR), Toulon, France, 2017. [Paper](https://arxiv.org/abs/1702.01846) [Project page](http://mil-tokyo.github.io/miljs.html)
+Masatoshi Hidaka, Ken Miura, Tatsuya Harada. Development of JavaScript-based deep learning platform and application to distributed training. Workshop of 5th International Conference on Learning Representations (ICLR), Toulon, France, 2017. [Paper](https://arxiv.org/abs/1702.01846) [Project page](http://mil-tokyo.github.io/miljs.html)
 
 ## 2016
 
