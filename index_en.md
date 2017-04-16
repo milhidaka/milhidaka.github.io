@@ -3,19 +3,21 @@ layout: default
 title: Masatoshi Hidaka
 ---
 
-[English](./index_en.html)
+[日本語](./index.html)
 
-# プロフィール
+# Profile
 
-日髙雅俊
+Masatoshi HIDAKA
 
-東京大学　情報理工学系研究科　知能機械情報学専攻　博士課程
+PhD Student of The University of Tokyo
 
-[原田・牛久研究室](http://www.mi.t.u-tokyo.ac.jp)所属
+Mechano-Informatics department, Graduate School of Information Science and Technology
 
-専門　機械学習・コンピュータビジョン
+Member of [Harada and Ushiku laboratory](http://www.mi.t.u-tokyo.ac.jp)
 
-# 発表
+Major: Machine Learning, Computer Vision
+
+# Publications
 
 ## 2017
 
@@ -40,6 +42,6 @@ Masatoshi Hidaka, Naoyuki Gunji, Tatsuya Harada. MIL at ImageCLEF 2013: Scalable
 
 日高雅俊, 郡司直之, 原田達也. ラベル間の階層構造を考慮したWeb画像アノテーション手法に関する研究. パターン認識・メディア理解研究会 (PRMU), pp.201-206, 鳥取, 2013年9月.
 
-# 連絡先
+# Contact
 
 hidaka (at) mi.t.u-tokyo.ac.jp
