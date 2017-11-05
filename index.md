@@ -19,6 +19,8 @@ title: Masatoshi Hidaka
 
 ## 2017
 
+Masatoshi Hidaka, Yuichiro Kikura, Yoshitaka Ushiku, Tatsuya Harada. WebDNN: Fastest DNN Execution Framework on Web Browser. ACM International Conference on Multimedia (ACMMM), Open Source Software Competition, pp.1213-1216, 2017. [Paper](https://dl.acm.org/citation.cfm?id=3129394) [Project page](https://mil-tokyo.github.io/webdnn/) (Received Honorable Mention Open source software Award 2017 in ACM Multimedia)
+
 Masatoshi Hidaka, Ken Miura, Tatsuya Harada. Development of JavaScript-based deep learning platform and application to distributed training. Workshop of 5th International Conference on Learning Representations (ICLR), Toulon, France, 2017. [Paper](https://arxiv.org/abs/1702.01846) [Project page](http://mil-tokyo.github.io/miljs.html)
 
 ## 2016
