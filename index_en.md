@@ -9,11 +9,7 @@ title: Masatoshi Hidaka
 
 Masatoshi HIDAKA
 
-PhD Student of The University of Tokyo
-
-Mechano-Informatics department, Graduate School of Information Science and Technology
-
-Member of [Harada and Ushiku laboratory](http://www.mi.t.u-tokyo.ac.jp)
+PhD (Information Science and Technology)
 
 Major: Machine Learning, Computer Vision
 
@@ -45,4 +41,4 @@ Masatoshi Hidaka, Naoyuki Gunji, Tatsuya Harada. MIL at ImageCLEF 2013: Scalable
 
 # Contact
 
-hidaka (at) mi.t.u-tokyo.ac.jp
+hidaka (at) edgeintelligence.jp
