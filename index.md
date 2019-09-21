@@ -9,9 +9,7 @@ title: Masatoshi Hidaka
 
 日髙雅俊
 
-東京大学　情報理工学系研究科　知能機械情報学専攻　博士課程
-
-[原田・牛久研究室](http://www.mi.t.u-tokyo.ac.jp)所属
+博士(情報理工学)
 
 専門　機械学習・コンピュータビジョン
 
@@ -44,4 +42,4 @@ Masatoshi Hidaka, Naoyuki Gunji, Tatsuya Harada. MIL at ImageCLEF 2013: Scalable
 
 # 連絡先
 
-hidaka (at) mi.t.u-tokyo.ac.jp
+hidaka (at) edgeintelligence.jp
