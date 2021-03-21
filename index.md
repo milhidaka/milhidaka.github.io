@@ -15,6 +15,9 @@ title: Masatoshi Hidaka
 
 # 発表
 
+## 2020
+Takumi Ito, Tatsuki Kuribayashi, Masatoshi Hidaka, Jun Suzuki and Kentaro Inui. Langsmith: An Interactive Academic Text Revision System. Proceedings of the 2020 EMNLP (Systems Demonstrations), pages 216–226, November 16-20, 2020. [Paper](https://www.aclweb.org/anthology/2020.emnlp-demos.28.pdf)
+
 ## 2017
 
 Masatoshi Hidaka, Yuichiro Kikura, Yoshitaka Ushiku, Tatsuya Harada. WebDNN: Fastest DNN Execution Framework on Web Browser. ACM International Conference on Multimedia (ACMMM), Open Source Software Competition, pp.1213-1216, 2017. [Paper](https://dl.acm.org/citation.cfm?id=3129394) [Project page](https://mil-tokyo.github.io/webdnn/) (Received Honorable Mention Open source software Award 2017 in ACM Multimedia)
