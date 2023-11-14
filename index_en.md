@@ -14,6 +14,9 @@ PhD (Information Science and Technology)
 Major: Machine Learning, Computer Vision
 
 # Publications
+## 2023
+Takumi Ito, Naomi Yamashita, Tatsuki Kuribayashi, Masatoshi Hidaka, Jun Suzuki, Ge Gao, Jack Jamieson and Kentaro Inui.
+Use of an AI-powered Rewriting Support Software in Context with Other Tools: A Study of Non-Native English Speakers. UIST 2023. [Paper](https://dl.acm.org/doi/10.1145/3586183.3606810)
 
 ## 2020
 Takumi Ito, Tatsuki Kuribayashi, Masatoshi Hidaka, Jun Suzuki and Kentaro Inui. Langsmith: An Interactive Academic Text Revision System. Proceedings of the 2020 EMNLP (Systems Demonstrations), pages 216–226, November 16-20, 2020. [Paper](https://www.aclweb.org/anthology/2020.emnlp-demos.28.pdf)
