@@ -14,6 +14,16 @@ PhD (Information Science and Technology)
 Major: Machine Learning, Computer Vision
 
 # Publications
+
+## 2024
+
+Masatoshi Hidaka, Tomohiro Hashimoto, Yuto Nishizawa and Tatsuya Harada.
+DistML.js: Installation-free Distributed Deep Learning Framework for Web Browsers. arXiv 2024. [Paper](https://arxiv.org/abs/2407.01023)
+
+伊藤拓海 (MLS/Langsmith), 阿部香央莉 (MLS), 日高雅俊 (MLS/EIS), 野田健一, 岩浅佑一 (トランスコスモス).
+コンタクトセンターにおける人と言語モデルの協働による対話データの作成. 言語処理学会第30回年次大会(NLP2024).
+[Paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-23.pdf) (in Japanese)
+
 ## 2023
 Takumi Ito, Naomi Yamashita, Tatsuki Kuribayashi, Masatoshi Hidaka, Jun Suzuki, Ge Gao, Jack Jamieson and Kentaro Inui.
 Use of an AI-powered Rewriting Support Software in Context with Other Tools: A Study of Non-Native English Speakers. UIST 2023. [Paper](https://dl.acm.org/doi/10.1145/3586183.3606810)
