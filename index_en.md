@@ -13,7 +13,13 @@ PhD (Information Science and Technology)
 
 Major: Machine Learning, Computer Vision
 
-# Publications
+# Publications and Awards
+
+## 2025
+
+Masatoshi Hidaka. AI Inference and Training on End User Devices. Journal of the Japanese Society for Artificial Intelligence Vol. 40 2025.5 No.3. the Japanese Society for Artificial Intelligence.
+
+The 35th World Computer Shogi Championship: Software "Mofu Shogi" (Team name: "Harada Lab., The University of Tokyo", Members: Masatoshi Hidaka, Kazuki Ota, Tomohiro Hashimoto, Tatsuya Harada) recieved Originality Award (独創賞).
 
 ## 2024
 
