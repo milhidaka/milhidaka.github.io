@@ -15,6 +15,10 @@ Major: Machine Learning, Computer Vision
 
 # Publications and Awards
 
+## 2026
+
+Masatoshi Hidaka, Kazuki Ota, Tomohiro Hashimoto and Tatsuya Harada. Development of a Shogi AI Using Distributed Computing on Smartphones. The 40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI2026), 1Yin-B-11, June 8, 2026. [Presentation](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/1Yin-B-11) (Non-refereed)
+
 ## 2025
 
 Masatoshi Hidaka. AI Inference and Training on End User Devices. Journal of the Japanese Society for Artificial Intelligence Vol. 40 2025.5 No.3. the Japanese Society for Artificial Intelligence.
