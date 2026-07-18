@@ -17,6 +17,8 @@ Major: Machine Learning, Computer Vision
 
 ## 2026
 
+Tomohiro Hashimoto, Yuto Nishizawa, Masatoshi Hidaka, Takayuki Osa and Tatsuya Harada. Cross-platform Distributed Reinforcement Learning Framework for the Web. The 40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI2026), 4Yin-B-33, June 11, 2026. [Presentation](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/4Yin-B-33) (Non-refereed)
+
 Masatoshi Hidaka, Kazuki Ota, Tomohiro Hashimoto and Tatsuya Harada. Development of a Shogi AI Using Distributed Computing on Smartphones. The 40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI2026), 1Yin-B-11, June 8, 2026. [Presentation](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/1Yin-B-11) (Non-refereed)
 
 ## 2025

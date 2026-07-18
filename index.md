@@ -17,6 +17,8 @@ title: Masatoshi Hidaka
 
 ## 2026
 
+橋本智洋, 西澤優人, 日高雅俊, 長隆之, 原田達也. Webブラウザを用いたクロスプラットフォームな分散強化学習基盤. 第40回人工知能学会全国大会(JSAI2026), 4Yin-B-33, 2026年6月11日. [講演情報](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/4Yin-B-33) (査読なし)
+
 日高雅俊, 太田一毅, 橋本智洋, 原田達也. スマートフォンを用いた分散計算による将棋AIの開発. 第40回人工知能学会全国大会(JSAI2026), 1Yin-B-11, 2026年6月8日. [講演情報](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/1Yin-B-11) (査読なし)
 
 ## 2025
